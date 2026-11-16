@@ -1,0 +1,13 @@
+# commbank_com_au/CHANGELOG
+
+## 20261116
+
+0.0.0: + CommbankComAu::VERSION
+
+1. + lib/commbank_com_au.rb
+2. + CommbankComAu::VERSION
+3. + commbank_com_au.gemspec
+4. + Gemfile
+5. + Rakefile
+6. + README.md
+7. + LICENSE
